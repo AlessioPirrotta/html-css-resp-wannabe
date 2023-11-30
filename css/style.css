@@ -159,5 +159,21 @@ img {
     .why-us .col-right {
         width: 100%;
     }
+
+    .steps{
+        margin: 0;
+    }
+
+    .why-us .container{
+        position: absolute;
+        background-color: #222222;
+        height:150%;
+        padding-top: 20%;
+    } 
+
+    .why-us li {
+        list-style: none;
+        margin-bottom: 5%;
+    }
     
- }    
+}
